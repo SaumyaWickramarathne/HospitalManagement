@@ -35,5 +35,9 @@ namespace HospitalManagement.Controllers
             })
             .ToArray();
         }
+
+        public void Test()
+        { 
+        }
     }
 }
